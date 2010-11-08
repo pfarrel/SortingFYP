@@ -1,0 +1,2 @@
+Final year project on improving sorting performance with SIMD instructions. Interesting parts in quicksortsse, mergesort and rsort folders. Needs ICC, compiler troubles and general bad performance with gcc
+
